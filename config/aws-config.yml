@@ -1,0 +1,5 @@
+access_key_id: <ACCESS_KEY_ID>
+secret_access_key: <SECRET_ACCESS_KEY>
+ec2_endpoint: ec2.ap-northeast-1.amazonaws.com
+ssl_ca_file: ./config/ca-bundle.crt
+region : ap-northeast-1
